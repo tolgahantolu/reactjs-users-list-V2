@@ -1,6 +1,7 @@
 import React from "react";
 
 import Card from "../UI/Card";
+import Button from "../UI/Button";
 import classes from "./AddUser.module.css";
 
 function AddUser(props) {
@@ -18,7 +19,7 @@ function AddUser(props) {
           <label htmlFor="email">Mail Adress: </label>
           <input id="email" type="email" />
 
-          <button>Add User</button>
+          <Button type="submit">Add User</Button>
         </form>
       </Card>
     </>
