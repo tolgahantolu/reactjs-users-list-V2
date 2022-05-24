@@ -1,3 +1,5 @@
+### Bu versiyonda React Portal ve useRef hook'u kullanılarak kodlar daha düzenli, basit ve anlamsal bir hale getirildi.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
